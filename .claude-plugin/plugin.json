@@ -1,7 +1,7 @@
 {
   "name": "summary",
   "displayName": "문서요약 팀 플러그인",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "한화이글스 뉴스 수집·요약·검수 자동화 플러그인 (서브에이전트 분업 구조)",
   "author": {
     "name": "summary팀",
