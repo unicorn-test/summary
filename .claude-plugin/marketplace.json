@@ -1,0 +1,19 @@
+{
+  "name": "summary-marketplace",
+  "owner": {
+    "name": "summary팀",
+    "email": "teamwmseoul@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "summary",
+      "source": "./",
+      "description": "한화이글스 뉴스 수집·요약·검수 자동화 플러그인 (서브에이전트 분업 구조)",
+      "version": "0.2.0",
+      "author": {
+        "name": "summary팀",
+        "email": "teamwmseoul@gmail.com"
+      }
+    }
+  ]
+}
